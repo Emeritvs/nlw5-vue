@@ -71,7 +71,6 @@ export default Vue.extend<unknown, any, unknown, any>({
   },
   mounted() {
     if ('Notification' in window) Notification.requestPermission();
-    actions.nuxtServerInit('', '');
   },
   computed: {
     ...mapState('Countdown', {
