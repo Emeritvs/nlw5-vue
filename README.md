@@ -1,46 +1,70 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="Comics" title="Comics" src=".github/logo.png" width="50%" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="Comics" src=".github/comics.png" width="100%">
+</p>
 
-### `yarn start`
+## 🚀 Tecnologias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [ReactJS](https://pt-br.reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com)
 
-### `yarn test`
+Esse projeto utilizou das seguintes APIs: 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-[Marvel API](https://developer.marvel.com)
 
-### `yarn build`
+## 💻 Projeto
+O Site foi criado para a realização de um teste de emprego para a IBM.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Versão Demo Web (responsivo para mobile)](https://emeritvs.github.io/emeritvs-comics/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔧 Instalação
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Para executar o projeto em sua máquina/dispostivo, serão necessários os seguintes recursos instalados:
 
-### `yarn eject`
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com) (Opcional)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Para realizar uma cópia deste projeto em sua máquina utilize o seguinte comando na pasta desejada atráves do prompt/terminal de comando do seu sistema:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```git repo clone https://github.com/Emeritvs/emeritvs-comics.git```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Com o [Node](https://nodejs.org/en/) instalado anteriormente acesse a pasta com os arquivos clonados do repositório e execute o seguinte comando:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```npm install```
 
-## Learn More
+Após a instalação das dependências (comando anterior) execute o seguinte comando para realizar  a compilação do projeto e exibi-lo em seu navegador:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```npm start```
+ou 
+```yarn start``` (caso tenha instalado o [Yarn](https://yarnpkg.com))
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🔖 Layout
+
+Nos links abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Adobe](https://www.adobe.com) para acessá-lo.
+
+- [Layout Web] (Em breve)
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Projeto desenvolvido por Guilherme Gomes (Emeritvs) em teste para IBM :wave:
